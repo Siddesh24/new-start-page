@@ -1,0 +1,71 @@
+body{
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZ0c3cLdtTvi-nRHyr7RFxUzobaYc1W0tYQ&usqp=CAU);
+background-repeat:no-repeat;
+background-size:cover;
+}
+#Hm1:hover{
+color:yellow;
+text-shadow:10px 10px 3px gray;
+}
+#Hm2:hover{
+color:Gray;
+text-shadow:10px 10px 3px gray;
+}
+#Hm3:hover{
+color:skyblue;
+text-shadow:10px 10px 3px gray;
+}
+#Hm4:hover{
+color:pink;
+text-shadow:10px 10px 3px gray;
+}
+#Hm5:hover{
+color:brown;
+text-shadow:10px 10px 3px gray;
+}
+#Hm6:hover{
+color:orange;
+text-shadow:10px 10px 3px gray;
+}
+.main img:hover{
+	width:20%;
+	height:60%;
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
+
+.main1 img:hover{
+	width:20%;
+	height:60%;
+	
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
+
+.main2 img:hover{
+	width:20%;
+	height:60%;
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
+
+.main3 img:hover{
+	width:20%;
+	height:60%;
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
+
+.main4 img:hover{
+	width:20%;
+	height:60%;
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
+
+.main5 img:hover{
+	width:20%;
+	height:60%;
+	box-shadow:10px 10px 3px black;
+text-shadow:10px 10px 3px gray;	
+}
